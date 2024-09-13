@@ -2,7 +2,7 @@
 
 ### Polypharmacy 
 
-- **Preclinical validation of therapeutic targets predicted by tensor factorization on heterogeneous graphs (Bioinformatics 2018)**
+- **Modeling polypharmacy side effects with graph convolutional networks (Bioinformatics 2018)**
   - Zitnik, Marinka, Monica Agrawal, and Jure Leskovec.
   - [[Paper]](https://academic.oup.com/bioinformatics/article/34/13/i457/5045770)
 
